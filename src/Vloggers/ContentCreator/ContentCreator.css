@@ -1,0 +1,32 @@
+.user-image img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-top: -20px;
+  }
+  .cart {
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid rgb(214, 214, 214);
+    background-color: cornflowerblue;
+    box-shadow: 10px 10px 20px gray
+  }
+  .btn-normal{
+    background-color: chartreuse;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    margin-bottom: 3px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .icon{
+      display: flex;
+      text-align: center;
+      margin-left: 140px;
+      gap: 20px;
+      padding-bottom: 10px;
+     
+  }
+
+    

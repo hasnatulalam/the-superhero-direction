@@ -1,0 +1,17 @@
+.vlogger-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.contentCreator{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+ 
+}
+.single-contentCreator{
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid blueviolet;
+    background-color: cyan;
+    height: 400px;
+    
+}
